@@ -1,0 +1,25 @@
+{
+  "name": "moxiaonai",
+  "version": "1.0.0",
+  "description": "the emlog template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moxiaonai/moxiaonai.git"
+  },
+  "author": "moxiaonai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moxiaonai/moxiaonai/issues"
+  },
+  "homepage": "https://github.com/moxiaonai/moxiaonai#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^2.0.1",
+    "gulp-uglify": "^1.5.4"
+  }
+}
