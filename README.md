@@ -41,12 +41,7 @@
 --- 
 **【版本预测】**：
 
-&nbsp; &nbsp;&nbsp;下个版本会是个大版本，会继续修复1.02的bug及细节不完美之处，会完成上个版本未处理的部分。会加入pjax,highslide等js。会加入更多细节，会移植入colorful主题的音乐播放器，还有等等许多功能，都会在下个版本带给大家。
-
----
-最后：祝大家生活愉快
-2016年7月24日20:33:31
-
+最新版本已转至码云https://git.oschina.net/moxiaonai/moxiaonai(https://git.oschina.net/moxiaonai/moxiaonai)
   
 
 
