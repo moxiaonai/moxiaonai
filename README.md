@@ -41,7 +41,7 @@
 --- 
 **【版本预测】**：
 
-最新版本已转至码云https://git.oschina.net/moxiaonai/moxiaonai(https://git.oschina.net/moxiaonai/moxiaonai)
+最新版本已转至码云https://git.oschina.net/moxiaonai/moxiaonai
   
 
 
