@@ -42,7 +42,5 @@
 **【版本预测】**：
 
 最新版本已转至码云https://git.oschina.net/moxiaonai/moxiaonai
-test
-  
 
 
