@@ -1,46 +1,214 @@
-## 莫小奈自用模板【更新至莫小奈7.22】 
+<div align="center">
 
- ![](http://7xpe18.com1.z0.glb.clouddn.com/ziyong.jpg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:7C3AED,100:EC4899&height=230&section=header&text=Hi,%20I'm%20Wuwenjing&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20%C2%B7%20AI%20Tool%20Builder%20%C2%B7%20Technical%20Blogger&descAlignY=59&descSize=16" alt="header" />
 
-&nbsp;&nbsp;【莫小奈自适用版】模版是基于博闻广记1.5免费版，参考众多收费模板
-重新定义了UI、重做了页头，导航、添加了首页幻灯片
-添加了低分辨率侧滑导航、重新定义了侧边栏。 
- 
----
-1.02更新：
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=console.log(%22Hello%2C%20World%22);%E5%86%99%E4%BB%A3%E7%A0%81%EF%BC%8C%E4%B9%9F%E5%86%99%E8%B8%A9%E5%9D%91%E6%97%A5%E8%AE%B0;%E7%94%A8%20Obsidian%20%2B%20Astro%20%E6%89%93%E7%90%86%E7%9F%A5%E8%AF%86%E5%92%8C%E5%8D%9A%E5%AE%A2;%E6%8A%8A%E5%A4%8D%E6%9D%82%E5%B7%A5%E4%BD%9C%E6%B5%81%E5%81%9A%E6%88%90%E6%B8%85%E6%A5%9A%E7%9A%84%E5%B7%A5%E5%85%B7" alt="Typing SVG" />
+</a>
 
- 1. 修复了1.0的基础bug。
- 2. 重新定义了后台设置、现在800px下的logo可以在后台上传了，同时qq、微信、微博等都可以在后台自定义了，总之，关于个人的信息，版权等都可以自定义了，更多请在后台模板设置里设置。
+<p>
+  <a href="https://www.fenewbee.com">
+    <img src="https://img.shields.io/badge/Blog-%E4%B8%80%E5%8F%AA%E7%89%B9%E7%AB%8B%E7%8B%AC%E8%A1%8C%F0%9F%90%B7-111827?style=for-the-badge&logo=astro&logoColor=white" alt="Blog" />
+  </a>
+  <a href="https://github.com/moxiaonai">
+    <img src="https://img.shields.io/badge/GitHub-moxiaonai-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=moxiaonai&style=for-the-badge&color=38bdf8&label=Views" alt="Profile views" />
+</p>
 
----
-**【主要特色】：**
+</div>
 
- 1. 重新定义了全局ui，全局背景选择固定图片背景，并添加了阴影半透蒙版，全局模块背景定义了统一颜色。统一边框。
- 2. 页头部分显示图像、并添加css旋转特效，调用了当前blog_url标题，同时调用数据库最新10条微语滚动显示。
- 3. 重新定义了导航css，保留了chaffle特效、右侧添加了个人社交账号(1.02实现了在后台自定义)
- 4. contentLeft部分添加了幻灯片，ui有待改进，下个版本会重做。添加了文章缩略图，重新定义了了article的布局。
-  细节部分会在下个版本完美。
- 5. 重新定义了侧栏、添加了最新、最热、随机文章的tag轮播。添加了文章hot序列标签。重做了模块的布局。细节后续会继续改进。
- 6. foot部分，移除了原版部分内容，保留了基本布局及js特效！
- 7. 文章内容页、微语、评论页，时间关系未做过多修改，下个版本会做处理！敬请期待！
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:7C3AED,100:EC4899&height=2&section=header" alt="separator" />
 
----
+# 🙋 Hello
 
- 联系QQ：39784480
-演示地址：http://blog.moxiaonai.cn
+<table>
+<tr>
+<td>
 
----
+### 🤺 About Me
 
-**【使用说明】：**
+<img align="right" width="120" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" />
 
-1. 使用本模板必用“模板设置”插件，你可在线安装，也可下载上传安装。地址：http://www.emlog.net/plugin/144
-2. 个人信息、版权信息、微博qq等都可以在后台定义！
-3. 幻灯片在模板目录moxiaonai/img/pic1.jpg！ 可以自己替换850*250像素的图片、命名规则pic1.jpg,pic2.jpg……有几张，首页就会显示几张！
-4. 首页文章缩略图默认显示文章第一张图片，如果文章没有图片，则显示模板目录下images/rand/1-11.jpg.图片不喜欢可以自己上传修改。
-  
---- 
-**【版本预测】**：
+<p>&emsp;&emsp;你好，我是 <strong>Wuwenjing</strong>。我喜欢把复杂的工具做轻，把零散的工作流串起来，也喜欢把项目里的判断、踩坑和细节写成文章。</p>
 
-最新版本已转至码云https://git.oschina.net/moxiaonai/moxiaonai
+<p>&emsp;&emsp;我主要关注 <strong>前端工程、产品体验、AI 工具、本地自动化和个人知识管理</strong>。相比炫技，我更在意一个工具能不能让人少一点切换、多一点掌控感。</p>
 
+<p>&emsp;&emsp;最近在做个人 AI 工作台、Obsidian + Astro 博客系统，以及一些能把日常开发流程变顺的自动化工具。</p>
 
+<p>&emsp;&emsp;<strong>把复杂系统拆成清楚的状态，把日常灵感做成可复用的工具。</strong></p>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧭 我在意什么
+
+- 让界面先回答「现在发生了什么」
+- 让输入、输出、状态和错误都能被追踪
+- 让工具少打扰人，但关键时刻说清楚
+- 把临时想法沉淀成文档、模板和自动化
+- 在细节里保留一点自己的审美和幽默感
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 最近的关键词
+
+- Frontend Engineering
+- AI Agent Workflow
+- Local-first Tools
+- Obsidian / Astro / Markdown
+- Product UI & Design System
+- Automation & Developer Experience
+
+</td>
+</tr>
+</table>
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,react,vue,vite,tailwind,astro,go,sqlite,postgres,nodejs,python,md,github,cloudflare,docker,blender&perline=8" alt="Tech stack icons" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=flat)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)
+![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=fff&style=flat)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=flat)
+
+</div>
+
+## 🚀 正在折腾
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧭 Personal Workbench / Nest
+
+本地优先的个人 AI Agent 工作台，用来管理 Chat、Task、Run、Automation、Approval 和 Artifact。
+
+<strong>Keywords:</strong> React · TypeScript · Vite · Go · SQLite · SSE
+
+</td>
+<td width="50%" valign="top">
+
+### ✍️ Obsidian Astro Blog
+
+面向 Obsidian 本地写作和 Astro 静态发布的中文技术博客主题。写文章，也整理写作流。
+
+<strong>Keywords:</strong> Astro · Markdown · Obsidian · CSS
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Frontend Engineering
+
+关注组件设计、交互状态、性能优化、工程化约束、设计 token，以及从原型到交付的产品细节。
+
+<strong>Keywords:</strong> UI Architecture · DX · Performance
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Workflow Experiments
+
+探索 CLI Agent、自动化执行、工具调用投影、产物索引和审批可回放的工作方式。
+
+<strong>Keywords:</strong> Agent · Automation · Local-first
+
+</td>
+</tr>
+</table>
+
+## ✍️ Blog
+
+<table>
+<tr>
+<td>
+
+### 一只特立独行🐷
+
+我在博客里记录前端工程、组件设计、性能优化、AI 工具、Astro / Obsidian 写作流和个人项目。
+
+<p align="center">
+  <a href="https://www.fenewbee.com">
+    <img src="https://img.shields.io/badge/Read%20my%20blog-www.fenewbee.com-0f172a?style=for-the-badge&logo=rss&logoColor=white" alt="Read my blog" />
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+## 💬 可以和我聊聊
+
+<table>
+<tr>
+<td align="center" width="25%">
+  <strong>前端工程</strong><br />
+  <sub>组件、状态、性能、工具链</sub>
+</td>
+<td align="center" width="25%">
+  <strong>AI 工具</strong><br />
+  <sub>Agent、自动化、工作台</sub>
+</td>
+<td align="center" width="25%">
+  <strong>写作系统</strong><br />
+  <sub>Obsidian、Astro、Markdown</sub>
+</td>
+<td align="center" width="25%">
+  <strong>产品细节</strong><br />
+  <sub>界面、流程、可用性</sub>
+</td>
+</tr>
+</table>
+
+<details>
+<summary>📊 GitHub stats</summary>
+
+<br />
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=moxiaonai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="moxiaonai GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moxiaonai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+
+<br />
+<br />
+
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=moxiaonai&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Rhythm" alt="GitHub contribution activity graph" />
+
+</div>
+
+</details>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,50:7C3AED,100:06B6D4&height=2&section=footer" alt="separator" />
+
+<div align="center">
+
+### Thanks for visiting 🐷
+
+写代码，也写踩坑日记。  
+和 Bug 关系稳定，偶尔互相放过。
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,45:7C3AED,100:06B6D4&height=120&section=footer" alt="footer" />
+
+</div>
