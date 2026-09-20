@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:7C3AED,100:EC4899&height=230&section=header&text=Hi,%20I'm%20Wuwenjing&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20%C2%B7%20AI%20Tool%20Builder%20%C2%B7%20Technical%20Blogger&descAlignY=59&descSize=16" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:7C3AED,100:EC4899&height=230&section=header&text=Hi,%20I'm%20moxiaonai&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20%C2%B7%20AI%20Tool%20Builder%20%C2%B7%20Technical%20Blogger&descAlignY=59&descSize=16" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=console.log(%22Hello%2C%20World%22);%E5%86%99%E4%BB%A3%E7%A0%81%EF%BC%8C%E4%B9%9F%E5%86%99%E8%B8%A9%E5%9D%91%E6%97%A5%E8%AE%B0;%E7%94%A8%20Obsidian%20%2B%20Astro%20%E6%89%93%E7%90%86%E7%9F%A5%E8%AF%86%E5%92%8C%E5%8D%9A%E5%AE%A2;%E6%8A%8A%E5%A4%8D%E6%9D%82%E5%B7%A5%E4%BD%9C%E6%B5%81%E5%81%9A%E6%88%90%E6%B8%85%E6%A5%9A%E7%9A%84%E5%B7%A5%E5%85%B7" alt="Typing SVG" />
@@ -30,7 +30,7 @@
 
 <img align="right" width="120" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" />
 
-<p>&emsp;&emsp;你好，我是 <strong>Wuwenjing</strong>。我喜欢把复杂的工具做轻，把零散的工作流串起来，也喜欢把项目里的判断、踩坑和细节写成文章。</p>
+<p>&emsp;&emsp;你好，我是 <strong>moxiaonai</strong>。我喜欢把复杂的工具做轻，把零散的工作流串起来，也喜欢把项目里的判断、踩坑和细节写成文章。</p>
 
 <p>&emsp;&emsp;我主要关注 <strong>前端工程、产品体验、AI 工具、本地自动化和个人知识管理</strong>。相比炫技，我更在意一个工具能不能让人少一点切换、多一点掌控感。</p>
 
